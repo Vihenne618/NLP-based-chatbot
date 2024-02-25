@@ -1,0 +1,41 @@
+QuestionID,Question,Answer,Intent
+Q1,I'd like to reserve a table / meal.,,BOOKING
+Q2,I'd like to book a table / meal.,,BOOKING
+Q3,I'd like to book breakfast / lunch / dinner.,,BOOKING
+Q4,I'd like to make a reservation for breakfast / lunch / dinner.,,BOOKING
+Q5,I want to reserve a table / meal.,,BOOKING
+Q6,I want to book a table / meal.,,BOOKING
+Q7,I want to book breakfast / lunch / dinner.,,BOOKING
+Q8,I want to make a reservation for breakfast / lunch / dinner.,,BOOKING
+Q9,I'd like to order a table / meal.,,ORDER
+Q10,I'd like to order breakfast / lunch / dinner.,,ORDER
+Q11,I'd like to place an order,,ORDER
+Q12,I would like to have breakfast / lunch / dinner / meal,,ORDER
+Q13,I want to order a table / meal.,,ORDER
+Q14,I want to order breakfast / lunch / dinner.,,ORDER
+Q15,I want to place an order,,ORDER
+Q16,I want to have breakfast / lunch / dinner / meal,,ORDER
+Q17,I'd like to cancel my order.,,CANCEL
+Q18,I'd like to cancel my reservation / booking.,,CANCEL
+Q19,I want to cancel my order.,,CANCEL
+Q20,I want like to cancel my reservation / booking.,,CANCEL
+Q21,I'd like to check my order.,,CHECK_ORDER
+Q22,I'd like to view my order.,,CHECK_ORDER
+Q23,I want to check my order.,,CHECK_ORDER
+Q24,I want to view my order.,,CHECK_ORDER
+Q25,I'd like to settle the bill.,,SETTLE
+Q26,I'd like to close out my account.,,SETTLE
+Q27,I want to settle the bill.,,SETTLE
+Q28,I want to close out my account.,,SETTLE
+Q29,Can you show me the menu?,,SHOW_MENU
+Q30,Could you show me the menu?,,SHOW_MENU
+Q31,I'd like to see the menu.,,SHOW_MENU
+Q32,I want to see the menu.,,SHOW_MENU
+Q33,I'd like to check my booking / reservation.,,CHECK_BOOKING
+Q34,I'd like to view my booking / reservation.,,CHECK_BOOKING
+Q35,I want to check my booking / reservation.,,CHECK_BOOKING
+Q36,I want to view my booking / reservation.,,CHECK_BOOKING
+Q37,I'd like to change my booking / reservation.,,MODIFY_BOOKING
+Q38,I want to change my booking / reservation.,,MODIFY_BOOKING
+Q39,I'd like to modify my booking / reservation.,,MODIFY_BOOKING
+Q40,I want to modify my booking / reservation.,,MODIFY_BOOKING

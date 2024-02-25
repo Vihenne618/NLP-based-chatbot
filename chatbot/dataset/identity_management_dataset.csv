@@ -1,0 +1,9 @@
+QuestionID,Question,Answer
+Q1,My name is {name},Hello! {name}.
+Q2,I'm {name},Hello! {name}.
+Q3,Call me {name},OK! {name}.
+Q4,What is my name?,Your name is {name}.
+Q5,Can you tell me my name?,Your name is {name}.
+Q6,Hi,Hello! {name}.
+Q7,Hello,Hello! {name}.
+Q8,"May I ask for my name, please?",Your name is {name}.
